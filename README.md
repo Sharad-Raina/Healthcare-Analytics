@@ -1,9 +1,3 @@
-# Healthcare-Analytics
-
-Here's a professional and comprehensive `README.md` you can use for your GitHub project based on the SQL code you provided. This README assumes the dataset is a fictional or anonymized healthcare dataset used for analytics purposes:
-
----
-
 # 🏥 Healthcare Encounter Analytics (SQL Project)
 
 This project showcases an end-to-end SQL-based analysis of a healthcare dataset involving patient encounters, procedures, outcomes, and demographics. It addresses key operational and clinical performance questions using advanced SQL querying techniques. The focus is on extracting actionable insights that can inform hospital administration, payer negotiations, and patient care strategies.
@@ -26,7 +20,8 @@ To analyze healthcare encounter data to evaluate patient care outcomes, operatio
   * `patients`
   * `procedures`
   * `payers`
-
+  * `providers`
+  * `claims`
 ---
 
 ## 🧠 Key Questions Answered
@@ -113,13 +108,3 @@ WHERE diff > 0 AND diff <= 30;
 * Results may vary depending on data quality and completeness.
 
 ---
-
-## 📧 Contact
-
-**Author:** Yatish
-**LinkedIn:** [linkedin.com/in/yatish](https://linkedin.com/in/yatish)
-**Email:** \[[your-email@example.com](mailto:your-email@example.com)]
-
----
-
-Let me know if you'd like this converted into a downloadable `README.md` file or if you'd like me to generate a nice project name or logo.
