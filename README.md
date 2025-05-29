@@ -24,6 +24,17 @@ To analyze healthcare encounter data to evaluate patient care outcomes, operatio
   * `claims`
 ---
 
+## 📈 Interactive Dashboard
+
+🔗 **[Click here to explore the interactive Tableau dashboard](https://public.tableau.com/app/profile/sharad.raina/viz/HealthcareAnalyticsDashboard_17433918480300/Dashboard2)**
+
+You can also preview it below:
+
+[![Healthcare Dashboard](https://public.tableau.com/thumb/views/HealthcareAnalyticsDashboard_17433918480300/Dashboard2?\:language=en-US&\:display_count=n&\:origin=viz_share_link)](https://public.tableau.com/app/profile/sharad.raina/viz/HealthcareAnalyticsDashboard_17433918480300/Dashboard2)
+
+---
+
+
 ## 🧠 Key Questions Answered
 
 ### 1. 🔁 **Readmission Analysis**
